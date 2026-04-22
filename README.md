@@ -1,16 +1,22 @@
-## Hi there 👋
+# Jaime Canales
+Full Stack Developer
 
-<!--
-**jaCanalesM/JaCanalesM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador enfocado en aplicaciones web usando Angular, Node.js y Firebase. 
+Experiencia en implementación de flujos de firma electrónica y sistemas colaborativos.
 
-Here are some ideas to get you started:
+## Tecnologías
+- Angular, TypeScript, JavaScript
+- Node.js, Python, Django REST
+- Firebase (Firestore, Auth, Storage)
+- Google Cloud Functions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+
+### ArchiTech Blue
+🔗 https://archi-tech-blue.vercel.app/
+
+Landing page desarrollada con Angular y TypeScript, optimizada para rendimiento y despliegue en Vercel.
+
+## Contacto
+- Email: jaime.canales.m@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jl-canalesm/
