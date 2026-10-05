@@ -1,22 +1,57 @@
-# Jaime Canales
-Full Stack Developer
+# 👋 Hola, soy Jaime Canales
 
-Desarrollador enfocado en aplicaciones web usando Angular, Node.js y Firebase. 
-Experiencia en implementación de flujos de firma electrónica y sistemas colaborativos.
+### 💻 Software Developer | 🔐 Cybersecurity Enthusiast
 
-## Tecnologías
-- Angular, TypeScript, JavaScript
-- Node.js, Python, Django REST
-- Firebase (Firestore, Auth, Storage)
-- Google Cloud Functions
+Ingeniero en Informática enfocado actualmente en desarrollar
+habilidades prácticas en Ciberseguridad.
 
-## Proyectos destacados
+Mi objetivo es combinar mi experiencia en desarrollo de software
+con conocimientos de seguridad, redes y Linux, orientándome
+progresivamente hacia Cybersecurity, Pentesting y Application Security.
 
-### ArchiTech Blue
-🔗 https://archi-tech-blue.vercel.app/
+---
 
-Landing page desarrollada con Angular y TypeScript, optimizada para rendimiento y despliegue en Vercel.
+## 🔐 Cybersecurity
 
-## Contacto
-- Email: jaime.canales.m@gmail.com
-- LinkedIn: https://www.linkedin.com/in/jl-canalesm/
+Actualmente estoy desarrollando experiencia práctica en:
+
+- Linux
+- Network Reconnaissance
+- Nmap
+- Network Scanning
+- Service Enumeration
+- Vulnerability Assessment
+- Cybersecurity Labs
+- Ethical Hacking fundamentals
+
+---
+
+## 🧪 Cybersecurity Projects
+
+### Network Reconnaissance Lab
+
+Laboratorio práctico de reconocimiento de redes utilizando Nmap.
+
+🔎 Network scanning  
+🔎 Port enumeration  
+🔎 Service detection  
+🔎 Reconnaissance methodology  
+🔎 Vulnerability assessment fundamentals
+
+
+---
+
+## 💻 Development Background
+
+Mi experiencia previa en desarrollo web incluye:
+
+- Angular / TypeScript
+- JavaScript
+- Node.js
+- Python
+- Django
+- Firebase
+- REST APIs
+
+Actualmente estoy orientando estos conocimientos hacia
+seguridad de aplicaciones y prácticas de desarrollo seguro.
